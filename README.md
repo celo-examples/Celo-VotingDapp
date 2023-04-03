@@ -1,6 +1,6 @@
 ## About The Project
 
-Buy me a coffee dapp is built to help the audience send tips/support to their favourite creators. The dapp was  deployed on the Celo Blockchain using Celo Composer.
+Voting Dapp smart contract was written in solidity and depoloyed to the Celo blockchain. It's a decentralized voting system, built using the Celo composer for smart contract interactions.
 
 
 ## Built With
