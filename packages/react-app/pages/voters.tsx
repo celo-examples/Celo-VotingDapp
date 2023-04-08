@@ -2,8 +2,6 @@ import React, {useState, useEffect} from 'react'
 import { useCelo } from '@celo/react-celo';
 import { getVotedVoters, getVoterList } from '@/interact'
 
-import TableList from '@/components/TableList';
-
 export default function Voters(): JSX.Element {
   const { kit, address } = useCelo()
   const [voters, setVoters] = useState<any[]>([])
